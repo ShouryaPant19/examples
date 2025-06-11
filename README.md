@@ -1,4 +1,7 @@
 # examples
 
 #commits
-#branches#merging
+#branches
+#merging
+#cloning
+#stashing
